@@ -1,0 +1,24 @@
+{
+	"name": "iiab-underscore-foundation-theme",
+	"version": "0.0.2",
+	"description": "WordPress Starter Theme built from _s and Foundation",
+	"repository": {
+		"type": "git",
+		"url": "git+https://imageinabox@github.com/imageinabox/_Foundation.git"
+	},
+	"author": "Image in a Box",
+	"license": "GPL-3.0",
+	"bugs": {
+		"url": "https://github.com/imageinabox/_Foundation/issues"
+	},
+	"homepage": "https://github.com/imageinabox/_Foundation#readme",
+	"devDependencies": {
+		"node-sass": "*",
+		"grunt": "*",
+		"grunt-contrib-watch": "*",
+		"grunt-sass": "*",
+		"grunt-contrib-copy": "*",
+		"grunt-contrib-concat": "*",
+		"grunt-contrib-uglify": "*"
+	}
+}

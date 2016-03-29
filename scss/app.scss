@@ -1,0 +1,10 @@
+@import "config/settings"; // Default settings file. Uncomment each setting you need to change
+
+@import "foundation"; //Foundation
+@include foundation-everything; //Pull everything in!
+
+//Foundation Icons
+$fi-path: '../bower_components/foundation-icons';
+@import "_foundation-icons.scss";
+
+@import "config/site"; // Your site structure

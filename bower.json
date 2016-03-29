@@ -1,0 +1,15 @@
+{
+	"name": "iiab-underscore-foundation-theme",
+	"description": "WordPress Starter Theme built from _s and Foundation",
+	"authors": [
+		"Image in a Box"
+	],
+	"license": "GPL-3.0",
+	"homepage": "https://github.com/imageinabox/_Foundation",
+	"dependencies": {
+		"modernizr": "Modernizr/Modernizr",
+		"foundation": "zurb/foundation-sites",
+		"foundation-icons": "zurb/foundation-icon-fonts",
+		"slick": "kenwheeler/slick"
+	}
+}
