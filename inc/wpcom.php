@@ -4,7 +4,7 @@
  *
  * This file is centrally included from `wp-content/mu-plugins/wpcom-theme-compat.php`.
  *
- * @package _Foundation
+ * @package _foundation
  */
 
 /**
@@ -12,7 +12,7 @@
  *
  * @global array $themecolors
  */
-function _Foundation_wpcom_setup() {
+function _foundation_wpcom_setup() {
 	global $themecolors;
 
 	// Set theme colors for third party services.
@@ -26,4 +26,4 @@ function _Foundation_wpcom_setup() {
 		);
 	}
 }
-add_action( 'after_setup_theme', '_Foundation_wpcom_setup' );
+add_action( 'after_setup_theme', '_foundation_wpcom_setup' );
