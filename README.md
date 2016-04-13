@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/imageinabox/_Foundation.svg?branch=develop)](https://travis-ci.org/imageinabox/_Foundation)
+[![Build Status](https://travis-ci.org/imageinabox/_foundation.svg?branch=develop)](https://travis-ci.org/imageinabox/_Foundation)
 
-_Founation
+_founation
 ===
 
 Getting Started
